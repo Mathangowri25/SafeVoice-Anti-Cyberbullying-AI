@@ -160,9 +160,10 @@ curl -X POST "http://localhost:8000/classify" \
 
 SafeVoice is built for educational and research purposes around AI safety and content moderation. Data collection scripts are intended for use with publicly available data only, in line with each platform's terms of service. Always obtain appropriate consent when monitoring chats involving minors.
 
-## License
+## ScreenShot
 
-MIT License
+<img width="1916" height="930" alt="Screenshot 2026-05-01 195028" src="https://github.com/user-attachments/assets/554ae20a-a6cf-4140-82b1-f72fd85dcf10" />
+
 
 ## Author
 
